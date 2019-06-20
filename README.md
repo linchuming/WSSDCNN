@@ -21,5 +21,11 @@ The unofficial implementation of Weakly- and Self-Supervised Learning for Conten
 
 The approach has limits and their results are not always good.  Some good results show below (aspect ratio = 0.5) :
 
+| Original                   | WSSDCNN                        | Bicubic                        |
+| -------------------------- | ------------------------------ | ------------------------------ |
+| ![](results/butterfly.png) | ![](results/butterfly_0.5.png) | ![](results/butterfly_bic.png) |
+| ![](results/eagle.png)     | ![](results/eagle_0.5.png)     | ![](results/eagle_bic.png)     |
+| ![](results/surfer.png)    | ![](results/surfer_0.5.png)    |  ![](results/surfer_bic.png)                              |
+
 
 
