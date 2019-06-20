@@ -1,3 +1,7 @@
+model_ckpt/*.data*
+model_ckpt/*.index
+model_ckpt/*.meta
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
